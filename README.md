@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=EDbarvinsky)](https://github.com/EDbarvinsky/github-contribution-stats/)
+![](https://komarev.com/ghpvc/?username=EDbarvinsky)
+
 <!--
 **EDbarvinsky/EDbarvinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
