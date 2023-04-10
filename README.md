@@ -4,6 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=EDbarvinsky)
 
+Contact me via:<br/> <br/>
+[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yauheni-barvinski/)
+[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:eugenebarvinsky@gmail.com)
 <!--
 **EDbarvinsky/EDbarvinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
